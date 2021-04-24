@@ -3,5 +3,5 @@
 cat << EOF
 ---
 addons:
-  - heroku-postgresql:hobby-dev
+ - scalingo-postgresql
 EOF
